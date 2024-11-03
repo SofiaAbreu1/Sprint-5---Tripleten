@@ -1,2 +1,3 @@
 # Sprint 5 - Veiculos
-Projeto da Sprint 5 da Tripleten
+O projeto visa um análise exploratória básica do conjunto de dados contendo apenas um histograma e um gráfico de dispersão, com o foco em desenvolver um dashboard no aplicativo web.
+[Acesse aqui o meu APP:] (https://sprint-5-tripleten-ug1z.onrender.com)
